@@ -1,0 +1,214 @@
+2025-02-25 11:26:23,363 - INFO - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 11:26:23,365 - INFO - Scanning file: ..\test.txt
+2025-02-25 11:26:23,365 - INFO - [bold green]YARA rule matched![/bold green] Details:
+2025-02-25 11:26:23,366 - INFO - YARA rule matched!
+2025-02-25 11:26:23,366 - INFO - [FindSpecificString]
+2025-02-25 12:00:21,289 - INFO - [logger.py:77] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 12:00:21,312 - INFO - [logger.py:77] - Scanning file: ..\test.txt
+2025-02-25 12:00:21,327 - INFO - [logger.py:77] - [FindSpecificString]
+2025-02-25 13:10:36,849 - INFO - [logger.py:79] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:10:36,870 - INFO - [logger.py:79] - Scanning file: ..\test.txt
+2025-02-25 13:10:36,873 - INFO - [logger.py:79] - [FindSpecificString]
+2025-02-25 13:12:49,124 - INFO - [logger.py:82] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:12:49,148 - INFO - [logger.py:82] - Scanning file: ..\test.txt
+2025-02-25 13:12:49,152 - INFO - [logger.py:82] - [FindSpecificString]
+2025-02-25 13:14:31,067 - INFO - [logger.py:83] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:14:31,089 - INFO - [logger.py:83] - Scanning file: ..\test.txt
+2025-02-25 13:14:31,091 - INFO - [logger.py:83] - [FindSpecificString]
+2025-02-25 13:17:16,784 - INFO - [logger.py:82] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:17:16,806 - INFO - [logger.py:82] - Scanning file: ..\test.txt
+2025-02-25 13:17:16,809 - INFO - [logger.py:82] - [FindSpecificString]
+2025-02-25 13:20:41,688 - INFO - [logger.py:83] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:20:41,707 - INFO - [logger.py:83] - Scanning file: ..\test.txt
+2025-02-25 13:20:41,710 - INFO - [logger.py:83] - [FindSpecificString]
+2025-02-25 13:30:28,804 - INFO - [logger.py:83] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:30:28,825 - INFO - [logger.py:83] - Scanning file: ..\test.txt
+2025-02-25 13:30:28,828 - INFO - [logger.py:83] - [FindSpecificString]
+2025-02-25 13:30:37,950 - INFO - [logger.py:83] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:30:37,972 - INFO - [logger.py:83] - Scanning file: ..\test.txt
+2025-02-25 13:30:37,977 - INFO - [logger.py:83] - [FindSpecificString]
+2025-02-25 13:33:44,419 - INFO - [logger.py:105] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:33:44,440 - INFO - [logger.py:105] - Scanning file: ..\test.txt
+2025-02-25 13:33:44,443 - INFO - [logger.py:105] - [FindSpecificString]
+2025-02-25 13:34:42,678 - INFO - [logger.py:105] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:34:42,699 - INFO - [logger.py:105] - Scanning file: ..\test.txt
+2025-02-25 13:34:42,703 - INFO - [logger.py:105] - [FindSpecificString]
+2025-02-25 13:35:06,310 - INFO - [logger.py:103] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:35:06,332 - INFO - [logger.py:103] - Scanning file: ..\test.txt
+2025-02-25 13:35:06,335 - INFO - [logger.py:103] - [FindSpecificString]
+2025-02-25 13:35:13,301 - INFO - [logger.py:103] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:35:13,328 - INFO - [logger.py:103] - Scanning file: ..\test.txt
+2025-02-25 13:35:13,331 - INFO - [logger.py:103] - [FindSpecificString]
+2025-02-25 13:35:27,588 - INFO - [logger.py:103] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:35:27,612 - INFO - [logger.py:103] - Scanning file: ..\test.txt
+2025-02-25 13:35:27,615 - INFO - [logger.py:103] - [FindSpecificString]
+2025-02-25 13:37:01,919 - INFO - [logger.py:103] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:37:01,941 - INFO - [logger.py:103] - Scanning file: ..\test.txt
+2025-02-25 13:37:01,945 - INFO - [logger.py:103] - [FindSpecificString]
+2025-02-25 13:37:14,883 - INFO - [logger.py:103] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:37:14,906 - INFO - [logger.py:103] - Scanning file: ..\test.txt
+2025-02-25 13:37:14,910 - INFO - [logger.py:103] - [FindSpecificString]
+2025-02-25 13:38:06,725 - INFO - [logger.py:103] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:38:06,749 - INFO - [logger.py:103] - Scanning file: ..\test.txt
+2025-02-25 13:38:06,752 - INFO - [logger.py:103] - [FindSpecificString]
+2025-02-25 13:38:13,188 - INFO - [logger.py:103] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:38:13,210 - INFO - [logger.py:103] - Scanning file: ..\test.txt
+2025-02-25 13:38:13,215 - INFO - [logger.py:103] - [FindSpecificString]
+2025-02-25 13:38:18,280 - INFO - [logger.py:103] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:38:18,305 - INFO - [logger.py:103] - Scanning file: ..\test.txt
+2025-02-25 13:38:18,308 - INFO - [logger.py:103] - [FindSpecificString]
+2025-02-25 13:40:44,355 - INFO - [logger.py:108] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:40:44,381 - INFO - [logger.py:108] - Scanning file: ..\test.txt
+2025-02-25 13:40:44,385 - INFO - [logger.py:108] - [FindSpecificString]
+2025-02-25 13:42:10,349 - INFO - [logger.py:108] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:42:10,371 - INFO - [logger.py:108] - Scanning file: ..\test.txt
+2025-02-25 13:42:10,374 - INFO - [logger.py:108] - [FindSpecificString]
+2025-02-25 13:42:50,119 - INFO - [logger.py:108] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:42:50,141 - ERROR - [logger.py:116] - Failed to compile YARA rule: 'str' object has no attribute 'lsplit'
+2025-02-25 13:43:03,665 - INFO - [logger.py:108] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:43:03,687 - INFO - [logger.py:108] - Scanning file: ..\test.txt
+2025-02-25 13:43:03,690 - INFO - [logger.py:108] - [FindSpecificString]
+2025-02-25 13:43:59,972 - INFO - [logger.py:103] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:43:59,991 - INFO - [logger.py:103] - Scanning file: ..\test.txt
+2025-02-25 13:43:59,994 - INFO - [logger.py:103] - [FindSpecificString]
+2025-02-25 13:44:29,512 - INFO - [logger.py:103] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:44:29,535 - INFO - [logger.py:103] - Scanning file: ..\test.txt
+2025-02-25 13:44:29,538 - INFO - [logger.py:103] - [FindSpecificString]
+2025-02-25 13:47:13,276 - INFO - [logger.py:106] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:47:13,295 - INFO - [logger.py:106] - Scanning file: ..\test.txt
+2025-02-25 13:47:13,298 - INFO - [logger.py:106] - [FindSpecificString]
+2025-02-25 13:47:21,581 - INFO - [logger.py:106] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:47:21,604 - INFO - [logger.py:106] - Scanning file: ..\test.txt
+2025-02-25 13:47:21,606 - INFO - [logger.py:106] - [FindSpecificString]
+2025-02-25 13:47:31,743 - INFO - [logger.py:106] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:47:31,769 - INFO - [logger.py:106] - Scanning file: ..\test.txt
+2025-02-25 13:47:31,773 - INFO - [logger.py:106] - [FindSpecificString]
+2025-02-25 13:47:46,060 - INFO - [logger.py:106] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:47:46,085 - INFO - [logger.py:106] - Scanning file: ..\test.txt
+2025-02-25 13:47:46,088 - INFO - [logger.py:106] - [FindSpecificString]
+2025-02-25 13:48:15,996 - INFO - [logger.py:102] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:48:16,020 - INFO - [logger.py:102] - Scanning file: ..\test.txt
+2025-02-25 13:48:16,023 - INFO - [logger.py:102] - [FindSpecificString]
+2025-02-25 13:48:58,456 - INFO - [logger.py:106] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:48:58,477 - INFO - [logger.py:106] - Scanning file: ..\test.txt
+2025-02-25 13:48:58,480 - INFO - [logger.py:106] - [FindSpecificString]
+2025-02-25 13:49:09,542 - INFO - [logger.py:106] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:49:09,562 - INFO - [logger.py:106] - Scanning file: ..\test.txt
+2025-02-25 13:49:09,565 - INFO - [logger.py:106] - [FindSpecificString]
+2025-02-25 13:49:23,465 - INFO - [logger.py:106] - Compiling YARA rule from: C:\Users\Hendrik.Siemens\Documents\Nordstream2\src\..\yara_rules\search_strings.yar
+2025-02-25 13:49:23,489 - INFO - [logger.py:106] - Scanning file: ..\test.txt
+2025-02-25 13:49:23,493 - INFO - [logger.py:106] - [FindSpecificString]
+2025-02-25 13:52:41,656 - INFO - [logger.py:106] - Compiling YARA rule from: search_strings
+2025-02-25 13:52:41,677 - INFO - [logger.py:106] - Scanning file: ..\test.txt
+2025-02-25 13:52:41,681 - INFO - [logger.py:106] - [FindSpecificString]
+2025-02-25 13:54:40,587 - INFO - [logger.py:119] - Compiling YARA rule from: search_strings
+2025-02-25 13:54:40,606 - INFO - [logger.py:119] - Scanning file: ..\test.txt
+2025-02-25 13:54:40,611 - INFO - [logger.py:119] - [FindSpecificString]
+2025-02-25 13:57:40,506 - INFO - [logger.py:123] - Compiling YARA rule from: search_strings
+2025-02-25 13:57:40,528 - INFO - [logger.py:123] - Scanning file: ..\test.txt
+2025-02-25 13:57:40,531 - INFO - [logger.py:123] - [FindSpecificString]
+2025-02-25 13:58:05,400 - INFO - [logger.py:123] - Compiling YARA rule from: search_strings
+2025-02-25 13:58:05,422 - INFO - [logger.py:123] - Scanning file: ..\test.txt
+2025-02-25 13:58:05,425 - INFO - [logger.py:123] - [FindSpecificString]
+2025-02-25 13:58:11,594 - INFO - [logger.py:123] - Compiling YARA rule from: search_strings
+2025-02-25 13:58:11,618 - INFO - [logger.py:123] - Scanning file: ..\test.txt
+2025-02-25 13:58:11,623 - INFO - [logger.py:123] - [FindSpecificString]
+2025-02-25 13:58:27,494 - INFO - [logger.py:123] - Compiling YARA rule from: search_strings
+2025-02-25 13:58:27,515 - INFO - [logger.py:123] - Scanning file: ..\test.txt
+2025-02-25 13:58:27,518 - INFO - [logger.py:123] - [FindSpecificString]
+2025-02-25 13:58:43,767 - INFO - [logger.py:123] - Compiling YARA rule from: search_strings
+2025-02-25 13:58:43,792 - INFO - [logger.py:123] - Scanning file: ..\test.txt
+2025-02-25 13:58:43,794 - INFO - [logger.py:123] - [FindSpecificString]
+2025-02-25 13:59:03,261 - INFO - [logger.py:123] - Compiling YARA rule from: search_strings
+2025-02-25 13:59:03,286 - INFO - [logger.py:123] - Scanning file: ..\test.txt
+2025-02-25 13:59:03,288 - INFO - [logger.py:123] - [FindSpecificString]
+2025-02-25 13:59:06,297 - INFO - [logger.py:123] - Compiling YARA rule from: search_strings
+2025-02-25 13:59:06,318 - INFO - [logger.py:123] - Scanning file: ..\test.txt
+2025-02-25 13:59:06,322 - INFO - [logger.py:123] - [FindSpecificString]
+2025-02-25 14:10:01,082 - INFO - [logger.py:118] - Compiling YARA rule from: search_strings
+2025-02-25 14:10:01,114 - INFO - [logger.py:118] - Scanning file: ..\test.txt
+2025-02-25 14:10:01,119 - INFO - [logger.py:118] - [FindSpecificString]
+2025-02-25 14:10:05,083 - INFO - [logger.py:118] - Compiling YARA rule from: search_strings
+2025-02-25 14:10:05,121 - INFO - [logger.py:118] - Scanning file: ..\test.txt
+2025-02-25 14:10:05,124 - INFO - [logger.py:118] - [FindSpecificString]
+2025-02-25 14:10:12,191 - INFO - [logger.py:120] - Compiling YARA rule from: search_strings
+2025-02-25 14:10:12,226 - INFO - [logger.py:120] - Scanning file: ..\test.txt
+2025-02-25 14:10:12,230 - INFO - [logger.py:120] - [FindSpecificString]
+2025-02-25 14:10:17,126 - INFO - [logger.py:120] - Compiling YARA rule from: search_strings
+2025-02-25 14:10:17,154 - INFO - [logger.py:120] - Scanning file: ..\test.txt
+2025-02-25 14:10:17,154 - INFO - [logger.py:120] - [FindSpecificString]
+2025-02-25 14:12:24,095 - INFO - [logger.py:140] - Compiling YARA rule from: search_strings
+2025-02-25 14:12:24,125 - INFO - [logger.py:140] - Scanning file: ..\test.txt
+2025-02-25 14:12:24,129 - INFO - [logger.py:140] - [FindSpecificString]
+2025-02-25 14:12:37,499 - INFO - [logger.py:145] - Compiling YARA rule from: search_strings
+2025-02-25 14:12:37,533 - INFO - [logger.py:145] - Scanning file: ..\test.txt
+2025-02-25 14:12:37,536 - INFO - [logger.py:145] - [FindSpecificString]
+2025-02-25 14:14:22,551 - INFO - [logger.py:145] - Compiling YARA rule from: search_strings
+2025-02-25 14:14:22,584 - INFO - [logger.py:145] - Scanning file: ..\test.txt
+2025-02-25 14:14:22,590 - INFO - [logger.py:145] - [FindSpecificString]
+2025-02-25 14:15:38,175 - INFO - [logger.py:145] - Compiling YARA rule from: search_strings
+2025-02-25 14:15:38,204 - ERROR - [logger.py:153] - Failed to compile YARA rule: level must be an integer
+2025-02-25 14:16:27,894 - INFO - [logger.py:147] - Compiling YARA rule from: search_strings
+2025-02-25 14:16:27,927 - INFO - [logger.py:140] - [INFO]    Compiling YARA rule from: search_strings                    ns2\nordstream.py:83
+2025-02-25 14:16:27,929 - INFO - [logger.py:147] - Scanning file: ..\test.txt
+2025-02-25 14:16:27,931 - INFO - [logger.py:140] - [INFO]    Scanning file: ..\test.txt                                  ns2\nordstream.py:97
+2025-02-25 14:17:04,854 - INFO - [logger.py:148] - Compiling YARA rule from: search_strings
+2025-02-25 14:17:04,885 - INFO - [logger.py:141] - [INFO]    Compiling YARA rule from: search_strings                    ns2\nordstream.py:83
+2025-02-25 14:17:04,887 - INFO - [logger.py:148] - Scanning file: ..\test.txt
+2025-02-25 14:17:04,889 - INFO - [logger.py:141] - [INFO]    Scanning file: ..\test.txt                                  ns2\nordstream.py:97
+2025-02-25 14:17:33,970 - INFO - [logger.py:149] - Compiling YARA rule from: search_strings
+2025-02-25 14:17:34,004 - INFO - [logger.py:142] - [INFO]    Compiling YARA rule from: search_strings                    ns2\nordstream.py:83
+2025-02-25 14:17:34,006 - INFO - [logger.py:149] - Scanning file: ..\test.txt
+2025-02-25 14:17:34,008 - INFO - [logger.py:142] - [INFO]    Scanning file: ..\test.txt                                  ns2\nordstream.py:97
+2025-02-25 14:17:34,012 - INFO - [logger.py:142] - [SUCCESS] YARA rule matched!                                         ns2\nordstream.py:172
+2025-02-25 14:17:34,015 - INFO - [logger.py:149] - [FindSpecificString]
+2025-02-25 14:17:34,018 - INFO - [logger.py:142] - [INFO]    [FindSpecificString]                                       ns2\nordstream.py:173
+2025-02-25 14:19:35,847 - INFO - [logger.py:112] - Compiling YARA rule from: search_strings
+2025-02-25 14:19:35,872 - INFO - [logger.py:105] - Compiling YARA rule from: search_strings [nordstream.py:83]
+2025-02-25 14:19:35,873 - INFO - [logger.py:112] - Scanning file: ..\test.txt
+2025-02-25 14:19:35,875 - INFO - [logger.py:105] - Scanning file: ..\test.txt [nordstream.py:97]
+2025-02-25 14:19:35,877 - INFO - [logger.py:105] - YARA rule matched! [nordstream.py:172]
+2025-02-25 14:19:35,877 - INFO - [logger.py:112] - [FindSpecificString]
+2025-02-25 14:19:35,879 - INFO - [logger.py:105] - [FindSpecificString] [nordstream.py:173]
+2025-02-25 14:21:13,504 - INFO - [logger.py:149] - Compiling YARA rule from: search_strings
+2025-02-25 14:21:13,541 - INFO - [logger.py:142] - [INFO]    Compiling YARA rule from: search_strings                    ns2\nordstream.py:83
+2025-02-25 14:21:13,543 - INFO - [logger.py:149] - Scanning file: ..\test.txt
+2025-02-25 14:21:13,545 - INFO - [logger.py:142] - [INFO]    Scanning file: ..\test.txt                                  ns2\nordstream.py:97
+2025-02-25 14:21:13,546 - INFO - [logger.py:142] - [SUCCESS] YARA rule matched!                                         ns2\nordstream.py:172
+2025-02-25 14:21:13,548 - INFO - [logger.py:149] - [FindSpecificString]
+2025-02-25 14:21:13,550 - INFO - [logger.py:142] - [INFO]    [FindSpecificString]                                       ns2\nordstream.py:173
+2025-02-25 15:03:46,724 - INFO - [logger.py:228] - Compiling YARA rule from: search_strings
+2025-02-25 15:03:46,755 - INFO - [logger.py:221] - [INFO]    Compiling YARA rule from: search_strings                    ns2\nordstream.py:83
+2025-02-25 15:03:46,756 - INFO - [logger.py:228] - Scanning file: ..\test.txt
+2025-02-25 15:03:46,758 - INFO - [logger.py:221] - [INFO]    Scanning file: ..\test.txt                                  ns2\nordstream.py:97
+2025-02-25 15:03:46,760 - INFO - [logger.py:221] - [SUCCESS] YARA rule matched!                                         ns2\nordstream.py:172
+2025-02-25 15:03:46,761 - INFO - [logger.py:228] - [FindSpecificString]
+2025-02-25 15:03:46,763 - INFO - [logger.py:221] - [INFO]    [FindSpecificString]                                       ns2\nordstream.py:173
+2025-02-25 15:08:33,235 - INFO - [logger.py:210] - Compiling YARA rule from: search_strings
+2025-02-25 15:08:33,269 - INFO - [logger.py:203] - [INFO]    Compiling YARA rule from: search_strings                    ns2\nordstream.py:83
+2025-02-25 15:08:33,272 - INFO - [logger.py:210] - Scanning file: ..\test.txt
+2025-02-25 15:08:33,278 - INFO - [logger.py:203] - [INFO]    Scanning file: ..\test.txt                                  ns2\nordstream.py:97
+2025-02-25 15:08:33,283 - INFO - [logger.py:203] - [SUCCESS] YARA rule matched!                                         ns2\nordstream.py:172
+2025-02-25 15:08:33,287 - INFO - [logger.py:210] - [FindSpecificString]
+2025-02-25 15:08:33,290 - INFO - [logger.py:203] - [INFO]    [FindSpecificString]                                       ns2\nordstream.py:173
+2025-02-25 15:11:51,147 - INFO - [logger.py:203] - Compiling YARA rule from: search_strings
+2025-02-25 15:11:51,178 - INFO - [logger.py:196] - [INFO]    Compiling YARA rule from: search_strings                    ns2\nordstream.py:83
+2025-02-25 15:11:51,181 - INFO - [logger.py:203] - Scanning file: ..\test.txt
+2025-02-25 15:11:51,184 - INFO - [logger.py:196] - [INFO]    Scanning file: ..\test.txt                                  ns2\nordstream.py:97
+2025-02-25 15:11:51,188 - INFO - [logger.py:196] - [SUCCESS] YARA rule matched!                                         ns2\nordstream.py:172
+2025-02-25 15:11:51,192 - INFO - [logger.py:203] - [FindSpecificString]
+2025-02-25 15:11:51,195 - INFO - [logger.py:196] - [INFO]    [FindSpecificString]                                       ns2\nordstream.py:173
+2025-02-25 15:18:57,972 - INFO - [logger.py:207] - Compiling YARA rule from: search_strings
+2025-02-25 15:18:58,007 - INFO - [logger.py:200] - [INFO]    Compiling YARA rule from: search_strings                    ns2\nordstream.py:83
+2025-02-25 15:18:58,010 - INFO - [logger.py:207] - Scanning file: ..\test.txt
+2025-02-25 15:18:58,013 - INFO - [logger.py:200] - [INFO]    Scanning file: ..\test.txt                                  ns2\nordstream.py:97
+2025-02-25 15:18:58,019 - INFO - [logger.py:200] - [SUCCESS] YARA rule matched!                                         ns2\nordstream.py:172
+2025-02-25 15:18:58,022 - INFO - [logger.py:207] - [FindSpecificString]
+2025-02-25 15:18:58,025 - INFO - [logger.py:200] - [INFO]    [FindSpecificString]                                       ns2\nordstream.py:173
+2025-02-25 15:20:01,834 - INFO - [logger.py:208] - Compiling YARA rule from: search_strings
+2025-02-25 15:20:01,864 - INFO - [logger.py:201] - [INFO]    Compiling YARA rule from: search_strings                    ns2\nordstream.py:83
+2025-02-25 15:20:01,869 - INFO - [logger.py:208] - Scanning file: ..\test.txt
+2025-02-25 15:20:01,871 - INFO - [logger.py:201] - [INFO]    Scanning file: ..\test.txt                                  ns2\nordstream.py:97
+2025-02-25 15:20:01,876 - INFO - [logger.py:201] - [SUCCESS] YARA rule matched!                                         ns2\nordstream.py:172
+2025-02-25 15:20:01,879 - INFO - [logger.py:208] - [FindSpecificString]
+2025-02-25 15:20:01,882 - INFO - [logger.py:201] - [INFO]    [FindSpecificString]                                       ns2\nordstream.py:173
