@@ -6,7 +6,7 @@ rule FindSpecificString
         date = "2024-12-30"
 
     strings:
-        $my_string = "HalloWelt" nocase
+        $my_string = "HalloWelt" ascii nocase
 
     condition:
         $my_string

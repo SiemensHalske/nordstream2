@@ -170,12 +170,19 @@ class YaraScannerCLI:
 
             # Print results
             if matches:
-                log.success("YARA rule matched!")
-                log.info(matches, success=True)
+                log.info("YARA rule matched!", success=True)
+                for match in matches:
+                    log.info(f"Rule: {match.rule}", success=True)
+                    for string in match.strings:
+                        offset, identifier, data = string  # Unpack the tuple
+                        log.info(
+                            f"Occurrence: Offset={offset}, Identifier={identifier}, Data={data}",
+                            success=True,
+                        )
             else:
                 log.warning("[bold yellow]No matches found.[/bold yellow]")
 
         except FileNotFoundError as e:
             log.error(e)
-        except yara.SyntaxError:
+        except yara.SyntaxError as e:
             log.error(f"An unexpected error occurred: {e}")
